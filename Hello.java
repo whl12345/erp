@@ -1,7 +1,7 @@
 public class Hello{
 	public static voin main(String args[]){
 		System.out.print("Hello GIT!!!");
-		System.out.print("认真听课的孩子才是好孩子!");
-		System.out.print("不认真听课的孩子去后面站着！");
+		System.out.print("111");
+		System.out.print("Hello World");
 	}
 }
