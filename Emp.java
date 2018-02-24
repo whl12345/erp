@@ -1,0 +1,5 @@
+public class Hello{
+	public static voin main(String args[]){
+		System.out.print("Hello GIT!!!");
+	}
+}
